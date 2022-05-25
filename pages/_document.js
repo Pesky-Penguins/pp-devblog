@@ -2,8 +2,6 @@
 
 import Document, { Html, Head, Main, NextScript } from 'next/document';
 
-const description = `Noot? Noot! Here's what plans the Pesky Penguins team and DAO leadership are cooking up!`;
-
 class MyDocument extends Document {
   render() {
     return (
@@ -24,16 +22,11 @@ class MyDocument extends Document {
           />
 
           {/* Metadata */}
-          <meta name="description" content={description}></meta>
           <meta name="twitter:site" content="https://twitter.com/peskypenguins" />
           <meta name="twitter:title" content="Pesky Penguins" />
-          <meta name="twitter:description" content={description} />
-          <meta name="twitter:image" content="https://blog.pesky-penguins.com/keikaku-noot.png" />
-          <meta property="og:description" content={description} />
-          <meta property="og:image" content="https://blog.pesky-penguins.com/keikaku-noot.png" />
           <meta property="og:title" content="Pesky Penguins" />
           <meta property="og:type" content="website" />
-          <meta property="og:url" content="https://pesky-penguins.com" />
+          <meta property="og:url" content="https://blog.pesky-penguins.com" />
         </Head>
         <body>
           <Main />
