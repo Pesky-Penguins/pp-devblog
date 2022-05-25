@@ -41,7 +41,7 @@ Funds in the DAO wallet would belong to _you,_ members of the DAO.
 The Pesky Leadership Team has expressed a desire to compensate the moderators and alpha hunters
 who help keep our community safe, productive, and prosperous.
 
-I think this is an _excellent_ use of funds, but whether we are able to achieve this vision will choice left up to *you*,
+I think this is an _excellent_ use of funds, but whether we are able to achieve this vision will be a choice left up to *you*,
 Pesky Penguins holders and DAO members.
 
 Look forward to some on-chain voting in early June!
