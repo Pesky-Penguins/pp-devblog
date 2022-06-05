@@ -2,7 +2,7 @@
 title: "PeskyVote: Live and Open-Sourced!"
 excerpt: "PeskyVote is live, and we've open-sourced it! The vote to fund NootDAO is underway, and we're already seeing participation in excess of 10% after only a day and a half!"
 coverImage: '/assets/blog/2022/june-peskyvote.png'
-date: '2022-06-01T12:00:00.000Z'
+date: '2022-06-02T12:00:00.000Z'
 author:
   name: NFP
   picture: '/nfp.png'

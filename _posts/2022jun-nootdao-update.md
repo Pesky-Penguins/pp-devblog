@@ -100,7 +100,7 @@ Friendly reminder to follow the new [Pesky Penguins Salesbot](https://twitter.co
 We set up a cold admin account for the Pesky Penguins discord, which will help us further secure the server. Special thank you to https://twitter.com/ryuk_dev for the suggestion! 
 We perform regular security audits and have confirmed that every user in the server with special permissions has two-factor authentication enabled. We are making sure we do everything possible to keep our community safe, and our lack of discord incidents reflects this.
 
-### 3.4.5 Daily Noot Newspaper
+### 4.5 Daily Noot Newspaper
 We’re thinking about how and in what shape we could bring back the [Daily Noot](https://twitter.com/TheDailyNoot) newspaper. This would be a great opportunity to break down information into smaller bits - no matter if we’re talking about updates or just fun and engaging facts. 
 If you’re interested in taking up the task and to support in this regard, reach out to DeusNero. Happy to ideate on what this could look like.
 
