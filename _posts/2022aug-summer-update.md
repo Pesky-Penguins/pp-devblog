@@ -84,10 +84,16 @@ We're also still hard at work developing the **Nootopia Basemap,** which will re
 
 ![Basemap Preview](/assets/blog/2022/basemap-building-1.png)
 
+The Pesky Team continues to collaborate with CryptoStraps to develop **3D Pesky Penguins assets** for use in metaverse projects, like [Portals](https://twitter.com/_portals_):
+
+<video autoplay loop muted playsinline>
+  <source src="/assets/blog/2022/3d-noots-smile-wave.mp4" type="video/mp4">
+</video>
+
 Finally, as part of our core mission of ensuring **web3 is for everyone,** we're working on a rework of our homepage, as well as `[REDACTED]`.
 
 Rather than compete for attention in the current bear market, we're working on building fun, interactive experiences for everybody.
 
-NFTs are not a zero-sum game, and *we're all going to make it.*
+NFTs are not a zero-sum game, and **we're all going to make it.**
 
 Thank you to everybody who participated in our Cosmic Corkscrew, Noot Juice, and artwork upgrade event; it was a tremendous success, we had a blast, and we hope you did, too!
