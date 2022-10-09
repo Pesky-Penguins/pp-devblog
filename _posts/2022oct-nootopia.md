@@ -2,7 +2,7 @@
 title: "Introducing: Nootopia!"
 excerpt: "It's finally here! Nootopia is live and ready for explorers! This is not an end, this is only the beginning! Let's take a look at some of the great new features that are present in this foundational improvement to the Pesky Penguins online experience"
 coverImage: '/assets/blog/2022/nootopia-center.png'
-date: '2022-10-09T14:00:00.000Z'
+date: '2022-10-09T12:00:00.000Z'
 author:
   name: NFP
   picture: '/nfp.png'
