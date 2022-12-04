@@ -58,7 +58,7 @@ There's a lot going on right now, despite the relative quiet:
 + We've got another vote to put together around royalty enforcement and whether or not that's something the community wants
 + We're working on a fun new approach to monetization (and funding the Snowball)
 
-...and that's just the Pesky Penguins. I've got another project I'm helping out, because I think there's a huge opportunity here to benefit the entire Solana creator ecosystem, and "a rising tide floats all boats." Can't talk about this just yet, you can follow me [on Twitter](https://twitter.com/nonfungible_dev) to catch the latest goings-on.
+...and that's just the Pesky Penguins. I've got another project I'm helping out, because I think there's a huge opportunity here to benefit the entire Solana creator ecosystem, and "a rising tide lifts all boats." Can't talk about this just yet, you can follow me [on Twitter](https://twitter.com/nonfungible_dev) to catch the latest goings-on.
 
 Today, we've releasing the [developer commentary for Chapter 1](https://lore.nootopia.app/ch1-comments.html) of the Lore; more dev commentary will follow! It's important to us that the story behind what it takes to build Pesky Penguins is not lost when the next bull cycle starts.
 
