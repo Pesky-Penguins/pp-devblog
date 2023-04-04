@@ -12,8 +12,8 @@ export default function HeroPost({ title, coverImage, date, excerpt, author, slu
       <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
         <div>
           <h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
-            <Link as={`/${slug}`} href="/[slug]" passHref={true}>
-              <a className="hover:underline">{title}</a>
+            <Link as={`/${slug}`} href="/[slug]" passHref={true} className="hover:underline">
+              {title}
             </Link>
           </h3>
           <div className="mb-4 md:mb-0 text-lg">
@@ -21,8 +21,13 @@ export default function HeroPost({ title, coverImage, date, excerpt, author, slu
           </div>
         </div>
         <div>
-          <Link as={`/${slug}`} href="/[slug]" passHref={true}>
-            <p className="text-lg leading-relaxed mb-4 cursor-pointer">{excerpt}</p>
+          <Link
+            as={`/${slug}`}
+            href="/[slug]"
+            passHref={true}
+            className="text-lg leading-relaxed mb-4 cursor-pointer"
+          >
+            {excerpt}
           </Link>
           <a href={author.link || ''} target="_blank" rel="noreferrer">
             <Avatar name={author.name} picture={author.picture} />
